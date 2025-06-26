@@ -1,3 +1,3 @@
-Using gLib2D by Geecko
+An WiP Open Source Re-implementation of Scott Cawthon's Five Nights at Freddy's. Using [gLib2D, by Geecko][1].
 
-todo
+[1]: https://github.com/libcg/gLib2D#:~:text=*%20Introduction%20*-,gLib2D%20by%20Geecko,-%2D%20A%20simple%2C
